@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+p {
+  text-align: center;
+  color: #555;
+}
+
+#output {
+  background-color: white;
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#output h2,
+#output h3 {
+  color: #222;
+}
+
+#output p,
+#output li {
+  color: #444;
+  font-size: 16px;
+}
+
+ol {
+  padding-left: 20px;
+}
